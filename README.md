@@ -110,6 +110,18 @@ curl http://localhost:8001/metrics
 | Jaeger | http://localhost:16686 |
 | Grafana Alloy | http://localhost:12345 |
 
+## Project Screenshots
+
+### 1. Grafana Observability Dashboard
+
+![Grafana Dashboard](screenshots/Screenshot%20(273).png)
+
+### 2. Grafana Metrics, Logs and Traces
+
+![Grafana Metrics and Logs](screenshots/Screenshot%20(274).png)
+
+The dashboard demonstrates application request metrics, request rates, average response time, centralized application logs, and Jaeger trace duration.
+
 ## Verification
 
 The platform was tested by:
